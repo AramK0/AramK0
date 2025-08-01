@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AramK0
+# 👋 Hi, I'm Aram
 ## 🚀 About Me
 🛠️ DevOps & automation enthusiast
 
