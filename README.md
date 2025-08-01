@@ -6,9 +6,9 @@
 
 💻 Computer Engineering @ University of Sulaimani
 
-🔍 Into scripting, containers, and backend magic
+🔍 Into scripting, containers, and devops magic
 
-🧰 Projects powered by FastAPI, Linux, AWS
+🧰 Projects powered by FastAPI, Linux, AWS, Docker, K8s
 
 📬 Reach me: aramk6827@gmail.com
 
