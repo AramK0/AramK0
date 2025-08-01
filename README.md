@@ -15,8 +15,7 @@
 ⚙️ My Workflow Automates Me
 “Why do it manually if you can script it?”
 
-I love solving problems with Python, Docker, GitHub Actions, and CI/CD. Whether it’s building an AI chatbot for the university or spinning up a full stack with infrastructure as code, I’m all in.
-## 🐍 Watch my contribution graph get eaten by a snake!
+I love solving problems with Python, Docker, GitHub Actions, and CI/CD. Whether it’s building an AI assistant for the university or spinning up a full stack with infrastructure as code, I’m all in.
 
 ![Snake animation](https://raw.githubusercontent.com/AramK0/AramK0/output/github-contribution-grid-snake-dark.svg)
 
@@ -30,4 +29,4 @@ I love solving problems with Python, Docker, GitHub Actions, and CI/CD. Whether 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AramK0&layout=compact&theme=dark)
 
 Tools I vibe with:
-🐧 Linux • 🐍 Python • 🐋 Docker • ⚙️ Git • ☁️ AWS • 📦 FastAPI • 🗃️ PostgreSQL
+🐧 Linux • 🐍 Python • 🐋 Docker • ⚙️ Git • ☁️ AWS • 📦 FastAPI • ☸️ Kubernetes
