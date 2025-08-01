@@ -9,9 +9,9 @@
 
 🔍 Into scripting, containers, and backend magic
 
-🧰 Projects powered by FastAPI, Linux, AWS, and love
+🧰 Projects powered by FastAPI, Linux, AWS
 
-📬 Reach me: [your email or LinkedIn link]
+📬 Reach me: aramk6827@gmail.com
 
 ⚙️ My Workflow Automates Me
 “Why do it manually if you can script it?”
