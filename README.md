@@ -20,7 +20,7 @@ I love solving problems with Python, Docker, GitHub Actions, and CI/CD. Whether 
 ![Snake animation](https://raw.githubusercontent.com/AramK0/AramK0/output/github-contribution-grid-snake-dark.svg)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AramK0&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AramK0&show_icons=true&theme=white)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AramK0&theme=dark)
