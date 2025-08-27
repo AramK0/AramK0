@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Aram
 ## 🚀 About Me
-🛠️ DevOps & automation enthusiast
-
+🛠️ DevOps & Automation Enthusiast
 🧠 Always building, breaking, and learning
-
 💻 Computer Engineering @ University of Sulaimani
 
-🔍 Into scripting, containers, and devops magic
-
+🔍 Into scripting, containers, low-level programming (C), and DevOps magic
 🧰 Projects powered by FastAPI, Linux, AWS, Docker, K8s
 
 📬 Reach me: aramk6827@gmail.com
@@ -15,7 +12,9 @@
 ⚙️ My Workflow Automates Me
 “Why do it manually if you can script it?”
 
-I love solving problems with Python, Docker, GitHub Actions, and CI/CD. Whether it’s building an AI assistant for the university or spinning up a full stack with infrastructure as code, I’m all in.
+I love solving problems with Python, C, Docker, GitHub Actions, and CI/CD.
+Whether it’s building an AI assistant for the university, diving into systems programming,
+or spinning up a full stack with infrastructure as code — I’m all in.
 
 ![Snake animation](https://raw.githubusercontent.com/AramK0/AramK0/output/github-contribution-grid-snake-dark.svg)
 
