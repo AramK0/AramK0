@@ -8,28 +8,6 @@
 
 ## 🚀 About Me
 
-```c
-#include <stdio.h>
-
-typedef struct {
-    char* role;
-    char* passion;
-    char* location;
-    char* motto;
-} Developer;
-
-int main() {
-    Developer me = {
-        .role = "Computer Engineering Student @ University of Sulaimani",
-        .passion = "DevOps, Systems Programming & Automation",
-        .location = "Kurdistan, Iraq",
-        .motto = "Why do it manually if you can script it?"
-    };
-    
-    printf("Building the future, one commit at a time...\n");
-    return 0;
-}
-```
 
 ## 🛠️ Tech Arsenal
 
