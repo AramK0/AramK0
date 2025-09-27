@@ -7,7 +7,13 @@
 </div>
 
 ## 🚀 About Me
+🛠️ DevOps & Automation Enthusiast 🧠 Always building, breaking, and learning 💻 Computer Engineering @ University of Sulaimani
 
+🔍 Into scripting, containers, low-level programming (C), and DevOps magic 🧰
+
+⚙️ My Workflow Automates Me “Why do it manually if you can script it?”
+
+I love solving problems with Python, C, Docker, GitHub Actions, and CI/CD. Whether it’s building an AI assistant for the university, diving into systems programming, or spinning up a full stack with infrastructure as code — I’m all in.
 
 ## 🛠️ Tech Arsenal
 
@@ -49,6 +55,7 @@
 [![Aram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AramK0&theme=react-dark&hide_border=true)](https://github.com/AramK0)
 
 ## 🌐 Let's Connect
+email: aramk6827@gmail.com
 
 <div align="center">
 
