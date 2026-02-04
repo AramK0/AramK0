@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aram
 ## 🚀 About Me
-🛠️ DevOps & automation enthusiast
+🛠️ DevSecOps,automation and low-level enthusiast
 
 🧠 Always building, breaking, and learning
 
@@ -8,7 +8,7 @@
 
 🔍 Into scripting, containers, and devops magic
 
-🧰 Projects powered by FastAPI, Linux, AWS, Docker, K8s
+🧰 Projects powered by Linux, AWS, Docker, K8s
 
 📬 Reach me: aramk6827@gmail.com
 
