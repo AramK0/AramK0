@@ -29,4 +29,4 @@ I love solving problems with Python, Docker, GitHub Actions, and CI/CD. Whether 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AramK0&layout=compact&theme=dark)
 
 Tools I vibe with:
-🐧 Linux • 🐍 Python • 🐋 Docker • ⚙️ Git • ☁️ AWS • 📦 FastAPI • ☸️ Kubernetes
+🐧 Linux • 🐍 Python • 🐋 Docker • ⚙️ Git • ☁️ AWS  • ☸️ Kubernetes
