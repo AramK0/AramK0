@@ -24,10 +24,10 @@ First year in, already shipped a few things I'm proud of.
 
 ### Projects
 
-**[Uni AI Assistant]** — * Docker  GitHub Actions CI/CD AWS*  
+**Uni AI Assistant** — * Docker  GitHub Actions CI/CD AWS*  
 An AI assistant built for the University of Sulaimani, deployed with proper DevOps practices — containerized, version-controlled, and CI/CD wired. Built in my first year of comp eng.
 
-**[LC-3 Virtual Machine and a simpler Assembler]((https://github.com/AramK0/LC-3_virtual_machine))** — *C*  
+**[LC-3 Virtual Machine and a simpler Assembler](https://github.com/AramK0/LC-3_virtual_machine)** — *C*  
 A working implementation of the LC-3 computer architecture in C. Simulates some instruction set, memory model, and I/O — built to understand what actually happens between the code you write and the hardware that runs it.
 
 ---
