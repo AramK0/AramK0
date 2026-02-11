@@ -18,7 +18,6 @@ from flashing firmware on microcontrollers to deploying containers in the cloud.
 I'm a Computer Engineering student who gets equally excited about writing a bare-metal interrupt handler and wiring up a CI/CD pipeline. I like understanding how things actually work - 
 "In order to bake a Cake you must first create the Universe"
 
-First year in, already shipped a few things I'm proud of.
 
 ---
 
