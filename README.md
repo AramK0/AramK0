@@ -52,18 +52,7 @@ A working implementation of the LC-3 computer architecture in C. Simulates some 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 [C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
----
 
-### Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AramK0&show_icons=true&theme=github_dark&hide_border=true&title_color=6A9FB5&icon_color=6A9FB5" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AramK0&layout=compact&theme=github_dark&hide_border=true&title_color=6A9FB5" />
-
-</div>
-
----
 
 <div align="center">
 
